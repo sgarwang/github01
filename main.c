@@ -9,6 +9,7 @@ int main(int argc, char **argv)
 	
 	
 	printf("Sgar for master: 1st\n");
+	printf("Sgar for master: 2nd\n");
 	
 	
 	return 0;
