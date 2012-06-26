@@ -8,7 +8,8 @@ int main(int argc, char **argv)
 	printf("Hello world master 2nd commit separate from branch01\n");
 	
 	
-	printf("Yanger for branch02\n");
+	printf("Sgar for master: 1st\n");
+	
 	
 	return 0;
 }
